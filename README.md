@@ -1,2 +1,11 @@
-# Kali-fish-shell
-Welcome to the Kali-Fish-Shell repository, where we bring the power and aesthetics of Kali Linux to your Fish shell experience. This collection of meticulously crafted configuration files is designed to transform your terminal into a visually stunning and highly functional environment reminiscent of the renowned Kali Linux distribution.
+# Kali-Fish-Shell
+
+Welcome to the Kali-Fish-Shell repository! This collection of configuration files is designed to transform your Fish shell into a visually stunning and highly functional terminal environment, inspired by the aesthetics of Kali Linux.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Disclaimer:** Kali-Fish-Shell is a community-driven project and is not affiliated with or endorsed by the creators of Kali Linux. Use this customization at your own discretion.
+
+Elevate your Fish shell experience with the Kali-Fish-Shell and bring the spirit of Kali Linux to your daily terminal interactions!
