@@ -7,6 +7,10 @@ set fish_greeting
 set blue_color \#277fff
 set cyan_color \#5cb7a6
 
+function sudo
+    command sudo -p "[sudo] password for $USER: " $argv
+end
+
 function fish_prompt
     set_color $cyan_color
     echo -n "┌──("
