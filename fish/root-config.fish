@@ -40,7 +40,7 @@ function fish_prompt
     echo -n "└─"
 
     set_color --bold $red_color
-    echo -n "\# "
+    echo -n "# "
 
     set_color normal
 end
