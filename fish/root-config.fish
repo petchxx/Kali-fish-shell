@@ -33,7 +33,8 @@ function fish_prompt
 
     set_color normal
     set_color $blue_color
-    echo -n "]\n"
+    echo -n "]"
+    echo
     
     set_color $blue_color
     echo -n "└─"
