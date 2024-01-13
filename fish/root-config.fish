@@ -8,11 +8,6 @@ function sudo
     command sudo -p "[sudo] password for $USER: " $argv
 end
 
-
-function show_neofetch
-    neofetch
-end
-
 set red_color \#ec0101
 set blue_color \#277fff
 
